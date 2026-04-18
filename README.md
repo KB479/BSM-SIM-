@@ -12,6 +12,8 @@
 ---
 
 ## Repository Status & Source Code Notice
-**Currently, this repository serves as the documentation and design hub for the project.** * **Available Files:** The repository currently contains the initial project design documents, architectural blueprints, and the official TÜBİTAK application files.
-* **Source Code:** The Unity project files and the C# codebase are currently in active local development. To maintain a clean commit history and protect the intellectual property during the core development phase, the source code has not yet been migrated to this public repository. 
-* **Upcoming Updates:** The codebase and interactive playable builds will be pushed to this repository as the project approaches its MVP (Minimum Viable Product) release stage.
+**Currently, this repository contains project documentation and selected core scripts.**
+
+* **Available Files:** The repository includes the initial project design documents, the official TÜBİTAK application files, and a collection of foundational C# scripts.
+* **Source Code:** To maintain a clean commit history and protect project assets during the core development phase, the full Unity project architecture has not been uploaded yet. However, specific backend scripts have been added to demonstrate the coding standards, modular architecture, and OOP practices currently being implemented.
+* **Upcoming Updates:** The complete codebase and interactive playable builds will be pushed to this repository as the project approaches its MVP (Minimum Viable Product) release stage.
